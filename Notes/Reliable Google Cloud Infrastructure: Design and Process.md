@@ -137,7 +137,7 @@ OpenAPI is an industry-standard for exposing APIs to clients
 <img width="700" src="https://user-images.githubusercontent.com/59575502/194769657-56e18feb-405f-46b9-9f0c-603991393444.png">
 </div>
 
-#### For cloud storage click [here](https://github.com/thesaravanakumar/Google-Cloud-Associate-Cloud-Engineer/blob/main/Notes/Essential%20Google%20Cloud%20Infrastructure:%20Core%20Services.md#storage).
+#### For cloud storage click [here](https://github.com/rahamthulla/Google-Cloud-Associate-Cloud-Engineer/blob/main/Notes/Essential%20Google%20Cloud%20Infrastructure:%20Core%20Services.md#storage).
 
 ### Designing Google Cloud Load Balancers
 
